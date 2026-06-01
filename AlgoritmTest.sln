@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgoritmTest", "AlgoritmTest\AlgoritmTest.vcxproj", "{65C8AFC3-4997-4DF1-B041-417D559C67DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hall_off_ame", "hall_off_ame\hall_off_ame.vcxproj", "{700499AC-46EF-4FC2-9E76-D4D717F90D63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -18,5 +20,13 @@ Global
 		{65C8AFC3-4997-4DF1-B041-417D559C67DF}.Release|Win32.Build.0 = Release|Win32
 		{65C8AFC3-4997-4DF1-B041-417D559C67DF}.Release|x64.ActiveCfg = Release|x64
 		{65C8AFC3-4997-4DF1-B041-417D559C67DF}.Release|x64.Build.0 = Release|x64
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Debug|Win32.Build.0 = Debug|Win32
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Debug|x64.ActiveCfg = Debug|x64
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Debug|x64.Build.0 = Debug|x64
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|Win32.ActiveCfg = Release|Win32
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|Win32.Build.0 = Release|Win32
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|x64.ActiveCfg = Release|x64
+		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
