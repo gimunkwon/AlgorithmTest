@@ -4,6 +4,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlgoritmTest", "AlgoritmTes
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hall_off_ame", "hall_off_ame\hall_off_ame.vcxproj", "{700499AC-46EF-4FC2-9E76-D4D717F90D63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Year_2016", "Year_2016\Year_2016.vcxproj", "{9A10C063-2EEC-47CB-9912-BBED5C984E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -28,5 +30,13 @@ Global
 		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|Win32.Build.0 = Release|Win32
 		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|x64.ActiveCfg = Release|x64
 		{700499AC-46EF-4FC2-9E76-D4D717F90D63}.Release|x64.Build.0 = Release|x64
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Debug|Win32.Build.0 = Debug|Win32
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Debug|x64.ActiveCfg = Debug|x64
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Debug|x64.Build.0 = Debug|x64
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Release|Win32.ActiveCfg = Release|Win32
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Release|Win32.Build.0 = Release|Win32
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Release|x64.ActiveCfg = Release|x64
+		{9A10C063-2EEC-47CB-9912-BBED5C984E58}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
