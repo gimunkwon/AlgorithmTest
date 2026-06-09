@@ -8,6 +8,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Year_2016", "Year_2016\Year
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardsDummy", "CardsDummy\CardsDummy.vcxproj", "{FD04380B-F9F1-4890-8319-CDA73CF49163}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fruitSeller", "fruitSeller\fruitSeller.vcxproj", "{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -48,5 +50,13 @@ Global
 		{FD04380B-F9F1-4890-8319-CDA73CF49163}.Release|Win32.Build.0 = Release|Win32
 		{FD04380B-F9F1-4890-8319-CDA73CF49163}.Release|x64.ActiveCfg = Release|x64
 		{FD04380B-F9F1-4890-8319-CDA73CF49163}.Release|x64.Build.0 = Release|x64
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Debug|Win32.Build.0 = Debug|Win32
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Debug|x64.ActiveCfg = Debug|x64
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Debug|x64.Build.0 = Debug|x64
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Release|Win32.ActiveCfg = Release|Win32
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Release|Win32.Build.0 = Release|Win32
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Release|x64.ActiveCfg = Release|x64
+		{62218DE8-A402-4A7A-8AB1-C2EBC6DB74AE}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
